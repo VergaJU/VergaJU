@@ -10,7 +10,7 @@
 
 #### Current projects
 
-I'm curretly working on the identification of terapeutic targets in MM:<br/>
+I'm currently working on the identification of therapeutic targets in MM:<br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vergaju&repo=BoneMarrow_scRNA-Seq)](https://github.com/vergaju/BoneMarrow_scRNA-Seq)<br/>
 but I also enjoy writing my own functions<br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vergaju&repo=ScoreMarkers)](https://github.com/vergaju/ScoreMarkers)<br/>
