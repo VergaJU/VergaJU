@@ -1,7 +1,7 @@
 ### Jacopo Umberto Verga
 
 - Bioinformatician/Computational Biologist
-- PhD Student in [Genomic Data Science](https://genomicsdatascience.ie/) at [University of Galway](https://www.universityofgalway.ie/)
+- PhD in [Genomic Data Science](https://genomicsdatascience.ie/) at [University of Galway](https://www.universityofgalway.ie/)
 - Nerd 🤓
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vergaju&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=10F700&icon_color=10F700&text_color=A1A1A1&bg_color=0,000000,098C00" alt="my Github Stats"/>
